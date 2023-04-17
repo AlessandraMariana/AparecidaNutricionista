@@ -62,18 +62,3 @@ for (var i = 0; i < pacientes.length; i++) {
             return false;
         }
     }
- 
-
-
-//adiciona um excutador de evento
-/*(titulo.addEventListener("click", function (){
-    console.log("Olha só posso chamar uma função anônima.")
-});
-
-
-function mostraMensagem(){
-    console.log("Olá eu fui clicado!");
-}*/
-
-/*var botaoAdicionar = document.querySelector("#adicionar-paciente");
-console.log(botaoAdicionar)*/
